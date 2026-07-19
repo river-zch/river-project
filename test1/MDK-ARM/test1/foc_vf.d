@@ -1,0 +1,12 @@
+test1\foc_vf.o: ..\Core\Src\foc_vf.c
+test1\foc_vf.o: ../Core/Inc/foc_vf.h
+test1\foc_vf.o: ../Core/Inc/foc_type.h
+test1\foc_vf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+test1\foc_vf.o: ../Core/Inc/foc_math.h
+test1\foc_vf.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+test1\foc_vf.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test1\foc_vf.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test1\foc_vf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+test1\foc_vf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+test1\foc_vf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+test1\foc_vf.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
